@@ -29,5 +29,5 @@ It is created for **learning, practice, and revision** of NumPy fundamentals use
 ---
 ### Clone the repository
 ```bash
-git clone https://github.com/pranay-surya/Numpy.git
+git clone https://github.com/pranay-surya/Numpy_practice.git
 
