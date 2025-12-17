@@ -16,6 +16,8 @@ It is created for **learning, practice, and revision** of NumPy fundamentals use
 - Array Slicing
 - Mathematical Operations
 - NumPy String Operations Methods
+- Array Broadcasting
+- Array Boolean masking
 ---
 
 ## Technologies Used
